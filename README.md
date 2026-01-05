@@ -1,16 +1,21 @@
-## Hi there 👋
+## 👋 Hi, I'm an Android Developer
 
-<!--
-**sivyy01/sivyy01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Android developer focused on modern Android development with Kotlin and Jetpack Compose.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- Kotlin
+- Jetpack Compose
+- MVVM, Clean Architecture
+- Room, Hilt, WorkManager
+- Coroutines, Flow
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📱 Featured Project
+🔹 **Todo Compose App**  
+Android ToDo application with search, filters, archive, swipe actions and reminders.  
+Built with Jetpack Compose, Clean Architecture and Material3.
+
+👉 https://github.com/sivyy01/todo-compose-app
+
+### 📫 Contacts
+- GitHub: https://github.com/sivyy01
+- Telegram @IvanSivyy/ Email: sivyy01@gmail.com
